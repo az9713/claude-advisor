@@ -24,7 +24,7 @@ In the example above, the task was to reverse-engineer Claude Code's agent harne
 
 The result: the advisor handles strategic planning at Opus intelligence; Claude handles execution at Sonnet speed and cost.
 
-📹 **Demo video:** [watch on GitHub Releases](https://github.com/az9713/claude-advisor/releases/tag/v1.0.0)
+https://github.com/user-attachments/assets/7022cd4e-12c0-4b83-9560-27a526916521
 
 ---
 
